@@ -1,0 +1,25 @@
+*
+{
+padding:0;
+margin:0;
+  }
+.menu-bar1{
+
+    background: #f2e4b3;
+    display: inline-flex;
+    width: 100%;
+    list-style: none;
+    text-align: center;
+    padding: 50px;
+
+  }
+img{
+  border-radius: 0%;
+  margin: 50px;
+  padding-left: 30px;
+
+
+}
+.fig{
+  text-align: center;
+}
